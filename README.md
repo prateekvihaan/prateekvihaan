@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prateekvihaan
-- 👀 I’m interested in Backend Development, Machine Learning, Data science
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Backend Development, Blockchain
+- 🌱 I’m currently learning SOLANA Blockchain
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - https://www.linkedin.com/in/prateek-vihaan-69a5321aa/
+- 📫 How to reach me - 
 
 <!---
 prateekvihaan/prateekvihaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
